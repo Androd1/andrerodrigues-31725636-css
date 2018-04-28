@@ -1,0 +1,188 @@
+body{
+	margin:0; 
+	border:0;
+	box-sizing: border-box;
+
+
+}
+
+.text{
+  color: white;
+}
+
+h6{
+  color: white;
+}
+
+#quadro1l1{
+  
+  padding: 50px;
+  margin: 50px;
+  border:0px solid black;
+  border-radius: 10px;
+  background-color: white;
+
+}
+#quadro2l1{
+
+  padding: 50px;
+  margin: 50px;
+  border:0px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+#quadro3l1{
+
+  padding: 50px;
+  margin: 50px;
+  border:0px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+#quadro1l2{
+
+  padding: 50px;
+  margin: 50px;
+  border:0px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+#quadro2l2{
+
+  padding: 50px;
+  margin: 50px;
+  border:0px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+#quadro3l2{
+
+  padding: 50px;
+  margin: 50px;
+  border:0px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+#divprincipal{
+	padding: 50px;
+  background: linear-gradient(to bottom, #99ffcc 0%, #ccffcc 100%)
+
+}
+
+.img-img1{
+  width: 20px;
+}
+
+.navbar ul{
+  list-style: none;
+  position: relative;
+}
+
+.navbar ul ul{
+  position: absolute;
+  visibility: hidden;
+}
+
+.navbar ul li:hover ul{
+  visibility: visible;
+}
+
+.formatar{
+  background-color:#fff;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  height:4px 
+  width:5px;
+  font-family: arial;
+
+}
+
+.imagemsvg{
+  margin: 1%;
+  padding: 2px 3px; 
+  
+}
+
+button{
+  background-color: #4CAF50; 
+  border: 3px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:10px;
+  margin: 20%;
+}
+
+h4{
+  font-family: arial;
+  color: white;
+}
+
+td{
+  color: black;
+  border: 1px solid black;
+  width: 500px; 
+  height:70px; 
+}
+
+.c1{
+  background-color:#5A5537 ;
+}
+
+.c2{
+  background-color: #FF2600;
+}
+.c3{
+  background-color:#11314F ;
+}
+.c4{
+  background-color:#A59A67 ;
+}
+.c5{
+  background-color:#B5B5B5 ;
+}
+.c6{
+  background-color:#921101 ;
+}
+.c7{
+  background-color: #607334;
+}
+.c8{
+  background-color:#505050 ;
+}
+.c9{
+  background-color: #FF7202;
+}
+.c10{
+  background-color:#5B125A ;
+}
+.c11{
+  background-color: #0D0D0D;
+}
+.c12{
+  background-color: #FFB5D0;
+}
+.c13{
+  background-color: #4181FF;
+}
+.c14{
+  background-color: #C3D7E9;
+}
+.c15{
+  background-color: #FFFC00;
+}
+.c16{
+  background-color: #FF497C;
+}
+.c17{
+  background-color: #6461DD;
+}
+.c18{
+  background-color: #008D00;
+}
+

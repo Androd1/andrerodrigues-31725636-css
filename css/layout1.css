@@ -1,0 +1,59 @@
+header{
+height: 100px;
+padding: 20px;
+background-color: #6B8E23;
+margin: 16px;
+border:4px;
+}
+
+h1{
+background-color: green;
+margin: 16px;
+border:4px;
+text-align: left;
+}
+div{
+margin: 16px;
+border:4px;
+}
+nav{
+height: 40px;
+padding: 10px;
+background-color: #DAA520;
+margin: 16px;
+border:4px;
+}
+
+aside{
+height: 300px;
+width: 14%;
+padding: 2%;
+background-color: #A0522D;
+float: left;
+
+
+}
+main{
+height: 300px;
+width: 78%;
+padding: 2%;
+background-color: #C06C84;
+  
+margin: 0 auto;
+  
+float: left;
+}
+
+footer{
+height: 40px;
+padding: 10px;
+background-color: #7FFF00;
+clear:both;
+margin:1%;
+
+}
+span{
+color: #F2F2F2;
+font-family: "Arial";
+font-size: 24px;
+}

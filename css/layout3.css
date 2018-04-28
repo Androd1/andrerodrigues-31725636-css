@@ -1,0 +1,61 @@
+header{
+	
+height: 100px;
+padding: 32px;
+background-color: #6C7B8B;
+margin: 25px 0 25px 0;
+}
+
+h2{
+background-color: green;
+margin: 16px;
+border:4px;
+text-align: left;
+}
+
+div{
+margin: 16px;
+border:4px;
+}
+
+nav{
+height: 40px;
+padding: 10px;
+background-color: #EEB422;
+margin: 16px;
+border:4px;
+}
+
+aside{
+height: 464px;
+width: 14%;
+padding: 2%;
+background-color: #8B3A3A;
+float: left;
+
+}
+main{
+height: 275px;
+width: 78%;
+padding: 2%;
+background-color: #C06C84;
+  
+margin: 0 auto;
+  
+float: left;
+}
+
+footer{
+height: 40px;
+padding: 10px;
+background-color: green;
+
+clear:both;
+border:16px solid white;
+
+}
+span{
+color: #F2F2F2;
+font-family: "sans-serif";
+font-size: 24px;
+}
